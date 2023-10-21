@@ -11,6 +11,6 @@ Database: MYSQL
 <hr/>
 
 <img src='noticw.png'/>
-This is project is ongoing not, means not completed but it has core features and advanced implementation.
+This is project is ongoing mode, means not completed but it has core features and advanced implementation.
 Free Contributions and Feedback✔📢. Request for setup and configuration tools -> abdulrahmandev10@gmail.com
 
