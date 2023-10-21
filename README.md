@@ -10,5 +10,5 @@ Back-end: Node.js, Express.js<br>
 Database: MYSQL
 <hr/>
 
-![](noticw.png)
+<img src='noticw.png'/>
 
