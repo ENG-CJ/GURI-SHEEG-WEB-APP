@@ -9,5 +9,6 @@ Front-end: React With MUI <br>
 Back-end: Node.js, Express.js<br>
 Database: MYSQL
 <hr/>
-![](./noticw.png)
+
+![](noticw.png)
 
